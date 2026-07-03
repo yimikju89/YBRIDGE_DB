@@ -4,6 +4,7 @@
 ("차세대라멘 / 교각(분할) / 15m / Φ600" . (
   (track . "단선")
   (part . "교각") (bridge_type . "라멘교") (pier_type . "분할")
+  (rahman_set . "기본")
   (arch_gap . (-530.0 530.0))
   (stretch_base . (-5500.0 0 (1600.0 -7338.0 -1600.0 -7338.0)))
   (stretch_pile . -17143.0)
