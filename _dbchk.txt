@@ -1,0 +1,5 @@
+Basic_Common_Span.txt            paren_final=0 min=0  gaps=(none)
+Basic_Rahman_Pier_Normal.txt     paren_final=0 min=0  gaps=[('D1_gap', '0.0 0.0'), ('D2_gap', '0.0 0.0'), ('D3_gap', '0.0 0.0'), ('arch_gap', '-350.0 350.0')]
+Basic_Rahman_Pier_Split.txt      paren_final=0 min=0  gaps=[('D1_gap', '0.0 0.0'), ('D2_gap', '0.0 0.0'), ('D3_gap', '-530.0 530.0'), ('arch_gap', '-530.0 530.0')]
+Basic_Rahman_Abut_Normal.txt     paren_final=0 min=0  gaps=[('D1_gap', '-1200.0 1200.0'), ('D2_gap', '-1200.0 1200.0'), ('D3_gap', '-1200.0 1200.0'), ('arch_gap', '-1200.0 1200.0')]
+Basic_Rahman_Abut_Girder.txt     paren_final=0 min=0  gaps=[('arch_gap', '-1200.0 1200.0')]

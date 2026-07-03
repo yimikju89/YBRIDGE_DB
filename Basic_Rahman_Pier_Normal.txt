@@ -5,11 +5,16 @@
   (track . "단선")
   (part . "교각") (bridge_type . "라멘교") (pier_type . "일반")
   (rahman_set . "기본")
+  (D1_gap . (0.0 0.0))
+  (D2_gap . (0.0 0.0))
+  (D3_gap . (0.0 0.0))
   (arch_gap . (-350.0 350.0))
   (stretch_base . (-7774.0 0.0 (-1600.0 -8838.0 1600.0 -8838.0)))
   (stretch_pile . -18805.0)
   (pile_embed . 1200.0)
   (column_h_adjust . 38.0)
+
+
   ;; 말뚝 중심선
   (pile_lines . (
     ("L" "CS-CNTL" 800.0 -9938.0 800.0 -19938.0)
