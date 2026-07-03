@@ -1,21 +1,19 @@
 ;; 차세대_교각_분할 — 차세대라멘 하부 DB (명시적 종+평면)
-;; type1 교대/교각, type2 라멘교, type3 거더/일반/분할
+;; part 교대/교각, bridge_type 라멘교, pier_type 거더/일반/분할
 ;; arch_gap=아치가로이격, column_h_adjust=보정값2, plan_lines=평면(mm)
-
 ("차세대라멘 / 교각(분할) / 15m / Φ600" . (
-  (type1 . "교각") (type2 . "라멘교") (type3 . "분할")
+  (track . "단선")
+  (part . "교각") (bridge_type . "라멘교") (pier_type . "분할")
   (arch_gap . (-530.0 530.0))
   (stretch_base . (-5500.0 0 (1600.0 -7338.0 -1600.0 -7338.0)))
   (stretch_pile . -17143.0)
   (pile_embed . 1200.0)
   (column_h_adjust . 38.0)
-
   ;; 말뚝 중심선
   (pile_lines . (
     ("L" "CS-CNTL" 800.0 -8438.0 800.0 -18438.0)
     ("L" "CS-CNTL" -800.0 -8438.0 -800.0 -18438.0)
   ))
-
   ;; 구조물 원본 라인 및 호 데이터 (L = Line, A = Arc)
   (draw_lines . (
     ("L" "CS-CONC-MAJR" 30.0 -6338.0 -30.0 -6338.0)
@@ -63,7 +61,6 @@
     ("A" "CS-PILE" -650.0 -18300.0 204.0 3.885 5.540)
     ("A" "CS-PILE" -650.0 -18576.0 204.0 0.743 2.398)
   ))
-
   ;; 레이어
   (plan_lines . (
     ("A" "CS-CONC-MINR" -1500 -200 300 9.3892 4.6768)
