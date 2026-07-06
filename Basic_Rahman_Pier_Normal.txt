@@ -1,7 +1,7 @@
 ;; 차세대_교각_일반 — 차세대라멘 하부 DB (명시적 종+평면)
 ;; part 교대/교각, bridge_type 라멘교, pier_type 거더/일반/분할
 ;; arch_gap=아치가로이격, column_h_adjust=보정값2, plan_lines=평면(mm)
-("차세대라멘 / 교각(일반) / 15m / Φ600" . (
+("차세대라멘 / 교각(일반) / 15m" . (
   (track . "단선")
   (part . "교각") (bridge_type . "라멘교") (pier_type . "일반")
   (rahman_set . "기본")
