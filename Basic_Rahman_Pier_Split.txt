@@ -3,8 +3,6 @@
 ;; arch_gap=아치가로이격, column_h_adjust=보정값2, plan_lines=평면(mm)
 ("차세대라멘 / 교각(분할) / 15m" . (
   (track . "단선")
-  (shoe_num . 3)
-  (shoe_d . 2000.0)
   (part . "교각") (bridge_type . "라멘교") (pier_type . "분할")
   (rahman_set . "기본")
   (D1_gap . (-30.0 30.0))
