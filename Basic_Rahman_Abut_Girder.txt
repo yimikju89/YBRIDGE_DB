@@ -15,7 +15,7 @@
   (stretch_base . (-10236.0 0.0 (3000.0 -11538.0 -1800.0 -11538.0)))
   (stretch_pile . -21512.0)
   (pile_embed . 1200.0)
-  (column_h_adjust . 38.0)
+  (column_h_adjust . 37.6)
   (stretch_girder_front . (
     (-2190.0 -3807.0 566.0 571.0)
     ("L" "CS-CONC-MAJR" 0.0 -3149.0 0.0 -11538.0)

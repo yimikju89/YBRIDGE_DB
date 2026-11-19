@@ -12,7 +12,7 @@
   (stretch_base . (-3900.0 0.0 (3200.0 -5038.0 -3050.0 -5038.0)))
   (stretch_pile . -14713.0)
   (pile_embed . 1200.0)
-  (column_h_adjust . 38.0)
+  (column_h_adjust . 37.6)
   (pile_lines . (
     ("L" "CS-CNTL" -700.0 -6438.0 -700.0 -16438.0)
     ("L" "CS-CNTL" 2400.0 -6438.0 2400.0 -16438.0)

@@ -12,7 +12,7 @@
   (stretch_base . (-5500.0 0 (1600.0 -7338.0 -1600.0 -7338.0)))
   (stretch_pile . -17143.0)
   (pile_embed . 1200.0)
-  (column_h_adjust . 38.0)
+  (column_h_adjust . 37.6)
   ;; 말뚝 중심선
   (pile_lines . (
     ("L" "CS-CNTL" 800.0 -8438.0 800.0 -18438.0)
